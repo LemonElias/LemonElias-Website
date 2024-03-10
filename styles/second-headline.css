@@ -1,0 +1,17 @@
+.second-headline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-headline h2 {
+    color: white;
+    line-height: 0;
+}
+
+h2 {
+    font-weight: 250;
+    font-size: 1.5vw;
+    margin-top: 50px;
+}
